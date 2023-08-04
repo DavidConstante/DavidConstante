@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DavidConstante
-- 👀 I’m interested in code, videogames and things like this.
-- 🌱 I’m currently learning Javascript (Node Js), React.
+- 👋 Hi, I’m @DavidConstante, jr fullstack web developer based in Ambato EC.
+- 🌱 I have experience in stack MERN.
 - 💞️ I’m looking to collaborate on all Project.
 
 
