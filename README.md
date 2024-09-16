@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidConstante, jr fullstack web developer based in Ambato EC.
 - 🌱 I have experience in stack MERN.
-- 💞️ I’m looking to collaborate on all Project.
+- 👾 I’m looking to collaborate on all Project.
 
 
 <!---
