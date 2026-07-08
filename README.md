@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Hola%2C+soy+David+%F0%9F%91%8B;Fullstack+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Oracle)](https://github.com/DavidConstante)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Hola%2C+soy+C%C3%A9limo+David+%F0%9F%91%8B;Fullstack+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Oracle)](https://github.com/DavidConstante)
 
 **Fullstack developer en Vehicentro** · Ambato, Ecuador 🇪🇨
 
