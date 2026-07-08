@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 🚛 Construyo y opero un **ERP en producción** para el sector automotriz: cartera, crédito, importaciones, inventario, facturación y marketing en una sola plataforma.
+- 🚛 Construyo y opero una **plataforma en producción** para el sector automotriz: cartera, crédito, importaciones, inventario, facturación y marketing.
 - ⚡ Stack diario: **Next.js + TypeScript** sobre **Supabase (Postgres + RLS)** y **Oracle**, con generación de documentos legales y PDF directo en el navegador.
 - 🐳 Del código a la infra: deploy self-hosted con **Docker, Traefik y Grafana** en VPS.
 - 🌱 Empecé en el stack **MERN**; hoy me interesa construir en público y aportar al open source.
