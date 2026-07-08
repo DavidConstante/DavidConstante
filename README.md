@@ -33,31 +33,6 @@
 
 </div>
 
-## 📊 Mis números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidConstante&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=DavidConstante&theme=tokyonight&hide_border=true&locale=es" alt="GitHub streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidConstante&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=DavidConstante&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trofeos" />
-
-</div>
-
-## 📦 Proyectos destacados
-
-<div align="center">
-
-[![mendicidad](https://github-readme-stats.vercel.app/api/pin/?username=DavidConstante&repo=mendicidad&theme=tokyonight&hide_border=true)](https://github.com/DavidConstante/mendicidad)
-[![open-api-facturacion-sri](https://github-readme-stats.vercel.app/api/pin/?username=DavidConstante&repo=open-api-facturacion-sri&theme=tokyonight&hide_border=true)](https://github.com/DavidConstante/open-api-facturacion-sri)
-
-</div>
-
-- 🎄 **Derechos con Dignidad** (`mendicidad`) — plataforma web con mapa interactivo de puntos de donación segura para la campaña navideña contra la mendicidad en Cotopaxi, Ecuador.
-- 🧾 **open-api-facturacion-sri** — API open source en NestJS para emisión, firma (XAdES-BES) y autorización de comprobantes electrónicos con el SRI Ecuador.
-
 ## 🐍 Contribuciones
 
 <div align="center">
